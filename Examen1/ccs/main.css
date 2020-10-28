@@ -1,0 +1,219 @@
+
+.titulo{
+    padding-right: 1075px;
+    font-size: 20pt;
+    padding-top: 20px;
+}
+.i{
+    font-style: normal;
+    color: black;
+    font-size: 20pt;
+
+    padding-right: 2mm;
+    float: right;
+}
+.i:hover{
+    background-color:gray;
+    font-size: 20pt;
+    float: right;
+}
+.linea{
+    background-color: black;
+    width: 100%;
+    height: 1px;
+}
+h1{
+    padding-left: 1cm;
+    
+}
+.prins{
+    position: absolute;
+    color: white;
+    font-size: 35pt;
+    padding-top: 1cm;
+    height: 50%;
+    text-align: center;padding-left: 80px;
+}
+
+.ima{
+    padding-top: 3mm;
+    
+}
+.imag{
+    float: right;
+    padding-top: 3mm;
+}
+.prinsi{
+    position: absolute;
+    color: white;
+    font-size: 35pt;
+    padding-top: 1cm;
+    padding-left: 1cm;
+    height: 50%;
+    text-align: left;
+}
+.prinsic{
+    position: absolute;
+    color: white;
+    
+    padding-top: 1cm;
+    padding-left: 20cm;
+    height: 50%;
+    text-align: left;
+}
+.inpu{
+    background-color: red;
+    size: 5cm;
+    color: white;
+    font-size: 20pt;
+    margin-bottom: 1mm;
+    text-shadow: white;
+}
+.uno{
+    padding-top: 3mm;
+    padding-left: 3mm;
+float: left;
+}
+.dos{
+    padding-top: 3mm;
+    padding-left: 2cm;
+float: center;
+}
+.tres{
+    padding-top: 3mm;
+    padding-right: 3mm;
+float: right;
+}
+.texto-uno{
+    color: gray;
+    padding-top: 200px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.texto-dos{
+    color: gray;
+    padding-top: 200px;
+    position: absolute;
+    padding-left: 13cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.texto-tres{
+    color: gray;
+    padding-top: 200px;
+    position: absolute;
+    padding-left: 24.75cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.texto-uno1{
+    padding-top: 260px;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.texto-dos2{
+    padding-top: 260px;
+    position: absolute;
+    padding-left: 13cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.texto-tres3{
+    padding-top: 260px;
+    position: absolute;
+    padding-left: 24.75cm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: lighter;
+}
+.redes{
+    max-width: 30px;
+    float: right;
+}
+.principal{
+    background-image: url(../Principal.webp);
+    background-size: cover;
+    padding: 20%;
+}
+.refer{
+    text-decoration: none;
+    color: white;
+    font-size: 20pt;
+    padding-left: 275px;
+    padding-bottom: 200px;
+    
+
+}
+.Color{
+ font-size: 35pt;
+ color: white;
+ text-align: center;
+ float: center;
+
+}
+.pe{
+    font-size: 16pt;
+    padding-left: 12mm;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+.pe2{
+    font-size: 16pt;
+    padding-left: 12mm;
+    color: rgb(75, 73, 73);
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
+}
+.mapa{
+    padding-left: 12mm;
+    max-width: 300px;
+    max-height: 300px;
+}
+.text-label1{
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    color: teal;
+    float: center;
+    padding-right: 12mm;
+    position: absolute;
+    padding-left: 600px;
+}
+.text-label2{
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    color: teal;
+    float: center;
+    padding-right: 12mm;
+    position: absolute;
+    padding-left: 600px;
+    padding-top: 60px;
+}
+.boton{
+    text-decoration: none;
+    Color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: inherit;
+    float: center;
+    padding-top: 275px;
+    padding-left: 350px;
+    position: absolute;
+    margin-bottom: 1px;
+    margin-left: 1px;
+    margin-right: 1px;
+    border-color: red;
+}
+.text-label3{
+    font-size: small;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: right;
+    color: teal;
+    float: center;
+    padding-right: 12mm;
+    position: absolute;
+    padding-left: 600px;
+    padding-top: 120px;
+    padding-bottom: 60px;
+}
